@@ -1,0 +1,9 @@
+com\teste\mfa\core\Properties.class
+com\teste\mfa\pages\ValidationPage.class
+com\teste\mfa\core\BasePage.class
+com\teste\mfa\core\BaseTest.class
+com\teste\mfa\core\DriverFactory.class
+com\teste\mfa\pages\RegisterPage.class
+com\teste\mfa\tests\MFATest.class
+com\teste\mfa\pages\LoginPage.class
+com\teste\mfa\utils\TotpGenerator.class
